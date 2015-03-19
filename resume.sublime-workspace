@@ -244,10 +244,10 @@
 	"buffers":
 	[
 		{
-			"file": "resume.html",
+			"file": "/Volumes/TEST_CODE/resume/index.html",
 			"settings":
 			{
-				"buffer_size": 9873,
+				"buffer_size": 9951,
 				"line_ending": "Unix"
 			}
 		},
@@ -284,6 +284,7 @@
 	},
 	"file_history":
 	[
+		"/Users/nathanpanchal/repos/nathanpanchal.github.io/resume.html",
 		"/Volumes/TEST_CODE/resume/resume.sublime-project",
 		"/Volumes/TEST_CODE/resume/resume.html",
 		"/Users/nathanpanchal/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -379,18 +380,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "resume.html",
+					"file": "/Volumes/TEST_CODE/resume/index.html",
 					"settings":
 					{
-						"buffer_size": 9873,
+						"buffer_size": 9951,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								243,
-								243
+								0,
+								0
 							]
 						],
 						"settings":
