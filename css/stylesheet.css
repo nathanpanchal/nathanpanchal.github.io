@@ -143,6 +143,13 @@
   padding: 0;
 }
 
+.nav-menu-button {
+  display: inline;
+  float: left;
+  color: #21CE99;
+  font-size: 25px;
+}
+
 .page {
   overflow: hidden;
 }
