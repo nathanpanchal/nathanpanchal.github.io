@@ -144,6 +144,8 @@
 }
 
 .nav-menu-button {
+  position: relative;
+  top: -32px;
   display: inline;
   float: left;
   color: #21CE99;
