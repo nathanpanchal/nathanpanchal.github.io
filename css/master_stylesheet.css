@@ -10,18 +10,6 @@
   margin: 0;
 }
 
-.company-name {
-  font-weight: 400;
-  font-size: 20px;
-  color: #888888;
-}
-
-.date-range {
-  display: block;
-  font-size: 16px;
-  padding-top: 14px;
-}
-
 .footer {
   background: #F8F8F8;
   border-top: 1px solid #e5e5e5;
@@ -71,28 +59,11 @@
   padding: 0;
 }
 
-.from-month {
-  display: block;
-  text-transform: uppercase;
-}
-
-.from-year {
-  display: block;
-}
-
 .header {
   text-align: center;
   padding-top: 40px;
   max-width: 100%;
   color: #21CE99;
-}
-
-.job-description {
-  font-weight: 300
-}
-
-.job-title {
-  font-weight: 400
 }
 
 .name {
@@ -188,19 +159,4 @@
 
 .is-navigating .page-nav {
   transform: translate3d(0, 0, 0);
-}
-
-.section-header {
-  color: #21CE99;
-}
-
-.section-divider {
-  background-color: #21CE99;
-  height: 1px;
-  margin: 50px auto;
-  max-width: 100px;
-}
-
-.skills-list {
-  font-weight: 300
 }

@@ -2,14 +2,6 @@
   box-sizing: border-box;
 }
 
-.body {
-  font-size: 13.5px;
-  font-family: 'Open Sans', sans-serif;
-  letter-spacing: .01em;
-  line-height: 2em;
-  margin: 0;
-}
-
 .company-name {
   font-weight: 400;
   font-size: 20px;
@@ -20,55 +12,6 @@
   display: block;
   font-size: 16px;
   padding-top: 14px;
-}
-
-.footer {
-  background: #F8F8F8;
-  border-top: 1px solid #e5e5e5;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.26);
-  color: #767676;
-  font-size: 12px;
-  font-weight: 300;
-  margin-top: 100px;
-  padding-bottom: 40px;
-  padding-top: 40px;
-  text-align: center;
-}
-
-.footer-a {
-  color: #767676;
-  line-height: 1px;
-  padding: 0 7px;
-  -webkit-transition: color 0.5s;
-  transition: color 0.5s;
-}
-
-.footer-a:focus {
-  color: inherit;
-  outline: none;
-}
-
-.footer-a-email:hover {
-  color: #21CE99;
-}
-
-.footer-a-linkedin:hover {
-  color: #0077B5;
-}
-
-.footer-a-github:hover {
-  color: #000000;
-}
-
-.footer-li {
-  display: inline-block;
-}
-
-.footer-ul {
-  font-size: 25px;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
 
 .from-month {
@@ -98,96 +41,6 @@
 .name {
   font-size: 48px;
   font-weight: 300;
-}
-
-.nav {
-  font-weight: 400;
-  margin: 0;
-  width: 100%;
-  text-align: left;
-}
-
-.nav-a {
-  color: white;
-  display: block;
-  font-weight: 100; 
-  letter-spacing: 1px;
-  padding: 27px 20px;
-  text-decoration: none;
-  -webkit-transition: color 0.5s;
-  transition: color 0.5s;
-}
-
-.nav-header {
-  color: white;
-  display: block;
-  letter-spacing: 1px;
-  padding: 27px 20px;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
-.nav-li {
-  display: block;
-}
-
-.nav-a:hover {
-  color: black;
-  text-decoration: none;
-}
-
-.nav-ul {
-  font-size: 19px;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.nav-menu-button {
-  position: relative;
-  top: -32px;
-  display: inline;
-  float: left;
-  color: #21CE99;
-  font-size: 25px;
-}
-
-.page {
-  overflow: hidden;
-}
-
-.is-navigating .page-content {
-  transform: translate3d(300px, 0, 0)
-}
-
-.page-content-overlay {
-  background: rgba(0, 0, 0, 0.5);
-  display: none;
-  height: 100%;
-  left: 0;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.is-navigating .page-content-overlay {
-  display: block;
-}
-
-.page-nav {
-  background-color: #21CE99;
-  box-shadow: 1px 2px 5px rgba(0,0,0,0.2);
-  height: 100%;
-  left: 0;
-  position: fixed;
-  top: 0;
-  transform: translate3d(-100%, 0, 0);
-  width: 300px;
-  z-index: 1;
-}
-
-.is-navigating .page-nav {
-  transform: translate3d(0, 0, 0);
 }
 
 .section-header {
