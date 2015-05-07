@@ -79,8 +79,8 @@
   letter-spacing: 1px;
   padding: 27px 20px;
   text-decoration: none;
-  -webkit-transition: color 0.5s;
-  transition: color 0.5s;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
 }
 
 .nav-header {
@@ -97,7 +97,7 @@
 }
 
 .nav-a:hover {
-  color: black;
+  color: #F43900;
   text-decoration: none;
 }
 
@@ -141,7 +141,7 @@
 }
 
 .page-nav {
-  background-color: #21CE99;
+  background-color: #3C3842;
   box-shadow: 1px 2px 5px rgba(0,0,0,0.2);
   height: 100%;
   left: 0;
