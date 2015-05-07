@@ -101,6 +101,10 @@
   text-decoration: none;
 }
 
+.nav-a-active {
+  background-color: #23252B;
+}
+
 .nav-ul {
   font-size: 19px;
   list-style-type: none;
