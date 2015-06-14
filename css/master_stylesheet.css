@@ -70,6 +70,14 @@ html {
   max-width: 100%;
 }
 
+.menu-social {
+  display: inline-block;
+  font-size: 18px;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 15px;
+}
+
 .nav {
   font-weight: 400;
   margin: 0;
