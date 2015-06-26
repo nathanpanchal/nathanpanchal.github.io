@@ -2,6 +2,12 @@
   float: left;
   height: 220px;
   width: 217px;
-  background-color: blue
+  background-color: blue;
+  margin: 10px;
+}
 
+
+.windows {
+  /*section container did not have height so this was added*/
+  overflow: hidden;
 }
